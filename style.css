@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+ .title{
+     border: 2px double red;
+    background-color: green;
+    
+ }
